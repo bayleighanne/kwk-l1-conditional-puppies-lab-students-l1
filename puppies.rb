@@ -18,3 +18,6 @@ def no_puppies(number)
     elsif "Well done, Rachel"
 end 
 end 
+
+def less_puppies
+  if number<3 
